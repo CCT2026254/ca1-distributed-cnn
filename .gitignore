@@ -18,6 +18,7 @@ outputs/
 
 # Large/local datasets
 data/
+dermamnist_spark
 
 # OS/editor files
 .DS_Store
